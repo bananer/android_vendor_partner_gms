@@ -7,6 +7,4 @@ PRODUCT_PACKAGES += \
 	com.google.android.maps \
 	FDroid \
 	FDroidPrivilegedExtension \
-	additional_repos.xml \
-	AuroraServices \
-	Nextcloud
+	additional_repos.xml
